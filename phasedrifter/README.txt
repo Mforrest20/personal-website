@@ -1,1 +1,1 @@
-This directory holds the contents of the Phase-Drifter 
+This directory holds the contents of the Phase-Drifter project
